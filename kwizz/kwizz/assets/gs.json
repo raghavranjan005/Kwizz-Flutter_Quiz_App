@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following statements is incorrect about the Lysosome?",
+        "2": "Which among the following is not present in pure sugar ?",
+        "3": "The branch of science Herpatology deals with the study of?",
+        "4": "What is the main function of Lymphocytes?",
+        "5": "Maximum number of animals species belong to which among the following groups?",
+        "6": "Which among the following blood protein regulates the amount of water in plasma? ",
+        "7": "Who is the father of Botany?",
+        "8": "A person develops resistance to the action of insulin in the body’s cells , it is called as___________?",
+        "9": "Athlete’s Foot or Tinia Pedis is caused by which of the following ?",
+        "10": "Lac is the scarlet resinous secretion from ________?"
+    },
+    {
+        "1": {
+            "a": "It is a membrane-bound organelle found in plant as well as animal cells",
+            "b": "It is also called the suicidal bag of the cell",
+            "c": "It helps in the synthesis of protein",
+            "d": "It acts as a dispatch station of protein products received from the endoplasmic reticulum (ER)"
+        },
+        "2": {
+            "a": "Carbon",
+            "b": "Hydrogen",
+            "c": "Nitrogen",
+            "d": "Oxygen"
+        },
+        "3": {
+            "a": "Fishes",
+            "b": "Insects",
+            "c": "Snakes",
+            "d": "Amphibians and Reptiles"
+        },
+        "4": {
+            "a": "Production of Antibodies",
+            "b": "Production of Antigens",
+            "c": "Production of White Blood Cells",
+            "d": "All of the above"
+        },
+        "5": {
+            "a": "Mammalia",
+            "b": "Aves",
+            "c": "Pisces",
+            "d": "Arthropoda"
+        },
+        "6": {
+            "a": "Globulin",
+            "b": "Albumin",
+            "c": "Fibrin",
+            "d": "Fibulin"
+        },
+        "7": {
+            "a": "Adam Smith",
+            "b": "Greco-Roman",
+            "c": "Theophrastus",
+            "d": "Carl Linnaeur"
+            },
+        "8": {
+            "a": "Type 1 Diabetes",
+            "b": "Type 2 Diabetes",
+            "c": "Hyabrid Diabetes",
+            "d": "None of the above"
+        },
+        "9": {
+            "a": "Bacteria",
+            "b": "Virus",
+            "c": "Fungi",
+            "d": "Protozoan"
+        },
+        "10": {
+            "a": "Herbs",
+            "b": "Trees",
+            "c": "Bark",
+            "d": "insects"
+        }
+    },
+    {
+        "1": "It acts as a dispatch station of protein products received from the endoplasmic reticulum (ER)",
+        "2": "Nitrogen",
+        "3": "Amphibians and Reptiles",
+        "4": "Production of Antibodies",
+        "5": "Arthropoda",
+        "6": "Albumin",
+        "7": "Theophrastus",
+        "8": "Type 2 Diabetes",
+        "9": "Fungi",
+        "10": "insects"
+    }
+]
