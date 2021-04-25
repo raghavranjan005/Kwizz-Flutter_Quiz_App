@@ -19,14 +19,14 @@ Install and setup Flutter. Follow steps mentioned here:
 https://flutter.dev/docs/get-started/install/windows
 ```
 ### ScreenShots
-SplashScreen
-![SplashScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/SplashScreen.jpeg)
-HomeScreen
-![HomeScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/HomeScreen.jpeg)
-QuizScreen
-![QuizScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/QuizScreen.jpeg)
-ResultScreen
-![ResultScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/ResultScreen.jpeg)
+#### SplashScreen
+![SplashScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/SplashScreen.jpeg){height:100px}
+#### HomeScreen
+![HomeScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/HomeScreen.jpeg){height:100px}
+#### QuizScreen
+![QuizScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/QuizScreen.jpeg){height:100px}
+#### ResultScreen
+![ResultScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/ResultScreen.jpeg){height:100px}
 
 ### Executing program
 
