@@ -20,13 +20,13 @@ https://flutter.dev/docs/get-started/install/windows
 ```
 ### ScreenShots
 #### SplashScreen
-![SplashScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/SplashScreen.jpeg){height:100px}
+<img src="https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/SplashScreen.jpeg" alt="SplashScreen"  height="100"/>
 #### HomeScreen
-![HomeScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/HomeScreen.jpeg){height:100px}
+<img src="https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/SplashScreen.jpeg" alt="HomeScreen"  height="100"/>
 #### QuizScreen
-![QuizScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/QuizScreen.jpeg){height:100px}
+<img src="https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/SplashScreen.jpeg" alt="QuizScreen"  height="100"/>
 #### ResultScreen
-![ResultScreen](https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/ResultScreen.jpeg){height:100px}
+<img src="https://github.com/raghavranjan005/Kwizz-Flutter_Quiz_App/blob/main/kwizz/kwizz/images/SplashScreen.jpeg" alt="ResultScreen"  height="100"/>
 
 ### Executing program
 
